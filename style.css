@@ -5,11 +5,11 @@
 }
 
 body{
-background-color: #f3e5d7;
+background-color:#f3e5d7;
 }
 
 body > div {
- background-color: #fff;
+ background-color:#fff;
  max-width: 736px;
  margin-inline: auto;
 }
